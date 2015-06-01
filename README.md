@@ -1,2 +1,2 @@
 # 5D_GB_model_UO2
-This REPO contains the code that fits the 5D_GB_Energy model for UO2
+This REPO contains the Matlab code that fits the 5D_GB_Energy model for UO2 and also the data needed for the fitting. The original code was developed by Bulatov et al. (V. V. Bulatov, B. W. Reed, and M. Kumar: Grain boundary energy function for fcc metals. Acta Mater. 65, 161–175 (2014)) and can be reached at http://dx.doi.org/10.1016/j.actamat.2013.10.057. The code has been slightly revised to fit better the UO2 data. The source code is available as free software under the terms of GNU General Public License. 
